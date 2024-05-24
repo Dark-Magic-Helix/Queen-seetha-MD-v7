@@ -6,22 +6,22 @@
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
       "env": {
        "OWNER_NAME": {
-      "description": "Put Owner Name Here"
+      "description": "Janinfu sithum"
     },
         "OWNER_NUMBER": {
-      "description": "Put your number here"
+      "description": "0765875655"
     },
          "BOTNAME": {
-      "description": "Name of your bot. Ex: - Maria-Bot"
+      "description": "Queen-seetha-MD-v7"
     },
      "PREFIX": {
       "description": "set your bot prefix here ex:- '!' "
      },
     "AUTHOR": {
-      "description": "set your bot author name here"
+      "description": "Helix ( Dady of Bot )"
     },
     "STICKER": {
-      "description": "set your bot sticker package name ex:- Ayush"
+      "description": "Ayush"
     },
      "id": {
       "description": "Put your session id here"
@@ -30,7 +30,7 @@
       "description": "type True for enable Pm blocker"
     },
      "WELCOME": {
-      "description": "Type True for enable welcome message"
+      "description": "Welcome to Queen Seetha MD v7.. powered by Helix"
     }     
   },
     "buildpacks": [
